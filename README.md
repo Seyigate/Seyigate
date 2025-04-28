@@ -3,7 +3,7 @@
 - Skills & Tools: Excel, Linux, Python, Power BI, SQL, Metasploit, Nmap, Burp Suite and more
 - 🌱 I’m currently learning All about Cybersecurity. Pen testing. Script. API automation 
 - 💞️ I’m looking to collaborate on different facet of projects involving Data, Cyber, Technology, Clouding.
-- 📫 How to reach me send mail to alloactionthesolution@gmail.com
+- 📫 How to reach me send mail to seyiphysics@gmail.com
 - ⚡ Fun fact: Love video games, Traveling and Most of all speeping 
 <!---
 Seyigate/Seyigate is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
